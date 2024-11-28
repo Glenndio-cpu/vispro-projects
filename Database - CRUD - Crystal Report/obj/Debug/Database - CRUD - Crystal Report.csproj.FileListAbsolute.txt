@@ -42,3 +42,4 @@ D:\Joki\Vispro\Database - CRUD - Crystal Report\Database - CRUD - Crystal Report
 D:\Joki\Vispro\Database - CRUD - Crystal Report\Database - CRUD - Crystal Report\obj\Debug\Database - CRUD - Crystal Report.exe
 D:\Joki\Vispro\Database - CRUD - Crystal Report\Database - CRUD - Crystal Report\obj\Debug\Database - CRUD - Crystal Report.pdb
 D:\Joki\Vispro\Database - CRUD - Crystal Report\Database - CRUD - Crystal Report\obj\Debug\Database___CRUD___Crystal_Report.Register.resources
+D:\Joki\Vispro\Database - CRUD - Crystal Report\Database - CRUD - Crystal Report\obj\Debug\Database___CRUD___Crystal_Report.Mainform.resources

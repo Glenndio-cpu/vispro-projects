@@ -1,13 +1,6 @@
 ﻿using System;
-using System.Collections.Generic;
-using System.ComponentModel;
 using System.Data;
-using System.Drawing;
-using System.Linq;
-using System.Text;
-using System.Threading.Tasks;
 using System.Windows.Forms;
-using System.Xml.Linq;
 
 namespace Database___CRUD___Crystal_Report
 {
@@ -15,16 +8,24 @@ namespace Database___CRUD___Crystal_Report
     {
         private Database db;
         private int userId;
+
         public Register()
         {
             InitializeComponent();
             db = new Database("localhost", "user_management", "root", "");
-            this.userId = userId;
+            LoadRoles();
+        }
 
+        // Constructor for editing an existing user
+        public Register(int userId)
+        {
+            InitializeComponent();
+            db = new Database("localhost", "user_management", "root", "");
+            this.userId = userId; // Set userId for editing an existing user
             LoadRoles();
             if (userId > 0)
             {
-                LoadUserData();
+                LoadUserData(); // Load existing user data
             }
         }
 
@@ -60,10 +61,10 @@ namespace Database___CRUD___Crystal_Report
 
         private void btnLogin_Click(object sender, EventArgs e)
         {
-            this.Hide(); // Hide Form1
+            this.Hide(); // Hide Register form
             Form1 loginForm = new Form1();
 
-            loginForm.FormClosed += (s, args) => this.Close(); // Close Form1 when Register closes
+            loginForm.FormClosed += (s, args) => this.Close(); // Close Register when Form1 closes
             loginForm.Show();
         }
 
@@ -105,7 +106,8 @@ namespace Database___CRUD___Crystal_Report
                 db.ExecuteNonQuery(query);
                 MessageBox.Show("User added successfully.");
             }
-        }
 
+            DialogResult = DialogResult.OK; // Close the Register form
+        }
     }
 }

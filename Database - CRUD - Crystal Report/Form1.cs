@@ -55,7 +55,7 @@ namespace Database___CRUD___Crystal_Report
                 MessageBox.Show($"Welcome, {name}!", "Login Successful", MessageBoxButtons.OK, MessageBoxIcon.Information);
 
                 // Open main form or dashboard
-                Form1 mainForm = new Form1();
+                Mainform mainForm = new Mainform();
                 mainForm.Show();
                 this.Hide();
             }
