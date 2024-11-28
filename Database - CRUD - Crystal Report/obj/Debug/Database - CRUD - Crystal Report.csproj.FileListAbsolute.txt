@@ -1,0 +1,44 @@
+D:\Joki\Vispro\Database - CRUD - Crystal Report\Database - CRUD - Crystal Report\bin\Debug\Database - CRUD - Crystal Report.exe.config
+D:\Joki\Vispro\Database - CRUD - Crystal Report\Database - CRUD - Crystal Report\bin\Debug\Database - CRUD - Crystal Report.exe
+D:\Joki\Vispro\Database - CRUD - Crystal Report\Database - CRUD - Crystal Report\bin\Debug\Database - CRUD - Crystal Report.pdb
+D:\Joki\Vispro\Database - CRUD - Crystal Report\Database - CRUD - Crystal Report\bin\Debug\BouncyCastle.Cryptography.dll
+D:\Joki\Vispro\Database - CRUD - Crystal Report\Database - CRUD - Crystal Report\bin\Debug\Google.Protobuf.dll
+D:\Joki\Vispro\Database - CRUD - Crystal Report\Database - CRUD - Crystal Report\bin\Debug\K4os.Compression.LZ4.dll
+D:\Joki\Vispro\Database - CRUD - Crystal Report\Database - CRUD - Crystal Report\bin\Debug\K4os.Compression.LZ4.Streams.dll
+D:\Joki\Vispro\Database - CRUD - Crystal Report\Database - CRUD - Crystal Report\bin\Debug\K4os.Hash.xxHash.dll
+D:\Joki\Vispro\Database - CRUD - Crystal Report\Database - CRUD - Crystal Report\bin\Debug\Microsoft.Bcl.AsyncInterfaces.dll
+D:\Joki\Vispro\Database - CRUD - Crystal Report\Database - CRUD - Crystal Report\bin\Debug\MySql.Data.dll
+D:\Joki\Vispro\Database - CRUD - Crystal Report\Database - CRUD - Crystal Report\bin\Debug\System.Buffers.dll
+D:\Joki\Vispro\Database - CRUD - Crystal Report\Database - CRUD - Crystal Report\bin\Debug\System.Configuration.ConfigurationManager.dll
+D:\Joki\Vispro\Database - CRUD - Crystal Report\Database - CRUD - Crystal Report\bin\Debug\System.Diagnostics.DiagnosticSource.dll
+D:\Joki\Vispro\Database - CRUD - Crystal Report\Database - CRUD - Crystal Report\bin\Debug\System.IO.Pipelines.dll
+D:\Joki\Vispro\Database - CRUD - Crystal Report\Database - CRUD - Crystal Report\bin\Debug\System.Memory.dll
+D:\Joki\Vispro\Database - CRUD - Crystal Report\Database - CRUD - Crystal Report\bin\Debug\System.Numerics.Vectors.dll
+D:\Joki\Vispro\Database - CRUD - Crystal Report\Database - CRUD - Crystal Report\bin\Debug\System.Runtime.CompilerServices.Unsafe.dll
+D:\Joki\Vispro\Database - CRUD - Crystal Report\Database - CRUD - Crystal Report\bin\Debug\System.Threading.Tasks.Extensions.dll
+D:\Joki\Vispro\Database - CRUD - Crystal Report\Database - CRUD - Crystal Report\bin\Debug\ZstdSharp.dll
+D:\Joki\Vispro\Database - CRUD - Crystal Report\Database - CRUD - Crystal Report\bin\Debug\BouncyCastle.Cryptography.xml
+D:\Joki\Vispro\Database - CRUD - Crystal Report\Database - CRUD - Crystal Report\bin\Debug\Google.Protobuf.pdb
+D:\Joki\Vispro\Database - CRUD - Crystal Report\Database - CRUD - Crystal Report\bin\Debug\Google.Protobuf.xml
+D:\Joki\Vispro\Database - CRUD - Crystal Report\Database - CRUD - Crystal Report\bin\Debug\K4os.Compression.LZ4.xml
+D:\Joki\Vispro\Database - CRUD - Crystal Report\Database - CRUD - Crystal Report\bin\Debug\K4os.Compression.LZ4.Streams.xml
+D:\Joki\Vispro\Database - CRUD - Crystal Report\Database - CRUD - Crystal Report\bin\Debug\K4os.Hash.xxHash.xml
+D:\Joki\Vispro\Database - CRUD - Crystal Report\Database - CRUD - Crystal Report\bin\Debug\Microsoft.Bcl.AsyncInterfaces.xml
+D:\Joki\Vispro\Database - CRUD - Crystal Report\Database - CRUD - Crystal Report\bin\Debug\MySql.Data.xml
+D:\Joki\Vispro\Database - CRUD - Crystal Report\Database - CRUD - Crystal Report\bin\Debug\System.Buffers.xml
+D:\Joki\Vispro\Database - CRUD - Crystal Report\Database - CRUD - Crystal Report\bin\Debug\System.Configuration.ConfigurationManager.xml
+D:\Joki\Vispro\Database - CRUD - Crystal Report\Database - CRUD - Crystal Report\bin\Debug\System.Diagnostics.DiagnosticSource.xml
+D:\Joki\Vispro\Database - CRUD - Crystal Report\Database - CRUD - Crystal Report\bin\Debug\System.IO.Pipelines.xml
+D:\Joki\Vispro\Database - CRUD - Crystal Report\Database - CRUD - Crystal Report\bin\Debug\System.Memory.xml
+D:\Joki\Vispro\Database - CRUD - Crystal Report\Database - CRUD - Crystal Report\bin\Debug\System.Numerics.Vectors.xml
+D:\Joki\Vispro\Database - CRUD - Crystal Report\Database - CRUD - Crystal Report\bin\Debug\System.Runtime.CompilerServices.Unsafe.xml
+D:\Joki\Vispro\Database - CRUD - Crystal Report\Database - CRUD - Crystal Report\bin\Debug\System.Threading.Tasks.Extensions.xml
+D:\Joki\Vispro\Database - CRUD - Crystal Report\Database - CRUD - Crystal Report\obj\Debug\Database - CRUD - Crystal Report.csproj.AssemblyReference.cache
+D:\Joki\Vispro\Database - CRUD - Crystal Report\Database - CRUD - Crystal Report\obj\Debug\Database___CRUD___Crystal_Report.Form1.resources
+D:\Joki\Vispro\Database - CRUD - Crystal Report\Database - CRUD - Crystal Report\obj\Debug\Database___CRUD___Crystal_Report.Properties.Resources.resources
+D:\Joki\Vispro\Database - CRUD - Crystal Report\Database - CRUD - Crystal Report\obj\Debug\Database - CRUD - Crystal Report.csproj.GenerateResource.cache
+D:\Joki\Vispro\Database - CRUD - Crystal Report\Database - CRUD - Crystal Report\obj\Debug\Database - CRUD - Crystal Report.csproj.CoreCompileInputs.cache
+D:\Joki\Vispro\Database - CRUD - Crystal Report\Database - CRUD - Crystal Report\obj\Debug\Database.80321BE7.Up2Date
+D:\Joki\Vispro\Database - CRUD - Crystal Report\Database - CRUD - Crystal Report\obj\Debug\Database - CRUD - Crystal Report.exe
+D:\Joki\Vispro\Database - CRUD - Crystal Report\Database - CRUD - Crystal Report\obj\Debug\Database - CRUD - Crystal Report.pdb
+D:\Joki\Vispro\Database - CRUD - Crystal Report\Database - CRUD - Crystal Report\obj\Debug\Database___CRUD___Crystal_Report.Register.resources
